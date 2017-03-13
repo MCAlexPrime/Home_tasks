@@ -1,28 +1,28 @@
-IMG.displayed {
+IMG. displayed {
     display: block;
-    margin-left: auto;;
-    margin-right: auto;;
-    }
+    margin-left: auto;
+    margin-right: auto;
+}
 
-
-  body {
-    width: 500px; 
+body {
+    width: 500px;
     padding: 10px;
     margin: auto;
     display: flex;
     align-items: baseline;
     flex-direction: column;
     justify-content: center;
-    margin: 0 267;
     background: #f3f6f5;
   	color:black;
   	font-family: Arial;
-    }
-h2 {font-weight: bold;}
-    p, {
+}
 
-      margin-top: left;
-      font-weight: normal;
-      text-align: left;;
-      font-family: Arial;
-      }
+h2 {
+  font-weight: bold;
+}
+
+p {
+    font-weight: normal;
+    text-align: left;
+    font-family: Arial;
+}
